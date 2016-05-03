@@ -134,6 +134,7 @@
     <Compile Include="Performance\UseStaticRegexIsMatchTests.cs" />
     <Compile Include="Performance\StringBuilderInLoopTests.cs" />
     <Compile Include="Refactoring\AddBracesToSwitchSectionsTests.cs" />
+    <Compile Include="Refactoring\AddMissingParameterTest.cs" />
     <Compile Include="Refactoring\AllowMembersOrderingAnalyzerTests.cs" />
     <Compile Include="Refactoring\AllowMembersOrderingCodeFixProviderTests.Base.cs" />
     <Compile Include="Refactoring\ChangeAnyToAllTests.cs" />
